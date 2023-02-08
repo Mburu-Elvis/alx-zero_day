@@ -7,7 +7,7 @@ created a new directory 0x03-git and added a **README** file
 
 - c (directory)
        c_is_fun.c (file in c dir)
-- js (directory)
-       main.js (file in js dir)
+- js (directory) \
+       main.js (file in js dir) \
        index.js (file in js dir)
 
